@@ -30,7 +30,7 @@ The goal of this project is to implement and evaluate several regression algorit
 
 The Random Forest Regressor outperforms all other models, demonstrating superior predictive accuracy, lower error rates, and a higher ability to explain variance in house prices. Linear Regression performed the worst, as it struggled to capture the non-linear relationships in the dataset.
 
-3 Conclusion:
+# Conclusion:
 
  * Best Model: Random Forest Regressor – Offers the highest predictive accuracy and handles complex non-linear relationships.
 
