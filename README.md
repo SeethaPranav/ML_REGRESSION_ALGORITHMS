@@ -32,6 +32,6 @@ The Random Forest Regressor outperforms all other models, demonstrating superior
 
 3 Conclusion:
 
-Best Model: Random Forest Regressor – Offers the highest predictive accuracy and handles complex non-linear relationships.
+ * Best Model: Random Forest Regressor – Offers the highest predictive accuracy and handles complex non-linear relationships.
 
-Worst Model: Linear Regression – Assumes a linear relationship and fails to capture the non-linear patterns in the data effectively.
+ * Worst Model: Linear Regression – Assumes a linear relationship and fails to capture the non-linear patterns in the data effectively.
